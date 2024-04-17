@@ -15,8 +15,9 @@ img {
   color: black;
 }
 
-body{
+header{
   background-color:pink;
+  color: white!important;
 }
 
   

@@ -1,7 +1,5 @@
 #containerimages{
     display: flex;
     flex-wrap: wrap;
-}
-.card-text{
-    
+    gap: 2rem;
 }
